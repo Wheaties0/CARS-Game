@@ -4,3 +4,5 @@ The Game CARS is a simple application that renders a car relative to the users i
 the Road "Wind" factor, variable width of the road, and various obstacles that spawn at random. 
 
 ![CARS-Game App](https://github.com/Wheaties0/CARS-Game/blob/master/Cars.png)
+
+![CARS-Game App](https://github.com/Wheaties0/CARS-Game/blob/master/CARS-Scan.jpeg)
